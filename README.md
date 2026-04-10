@@ -18,9 +18,8 @@ A ideia não é ser um software pesado, mas um editor leve e intuitivo que conve
 ---
 
 ## 📸 Preview
-*(Dica: Tire um print do app rodando e coloque o arquivo na mesma pasta do projeto no GitHub. Depois, substitua o link abaixo pelo nome da imagem)*
 
-![Preview do React Chemistry](screenshot.png)
+![Interface do React Chemistry](screenshot.png)
 
 ---
 
@@ -34,5 +33,5 @@ Para rodar o projeto localmente, você só precisa do Python instalado e seguir 
 
 2. **Rode o arquivo:**
    ```bash
-   streamlit run app.py
+   python -m streamlit run app.py
  
